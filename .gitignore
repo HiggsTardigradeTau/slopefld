@@ -155,6 +155,7 @@ gradle-app.setting
 .project
 .settings/
 bin/
+obj/
 imgui.ini
 
 # # IntelliJ Folders

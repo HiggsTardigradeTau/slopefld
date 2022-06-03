@@ -1,6 +1,23 @@
 {
     "makefile.extensionOutputFolder": "./.vscode",
     "files.associations": {
-        "string": "cpp"
+        "string": "cpp",
+        "stdexcept": "cpp",
+        "cctype": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "*.tcc": "cpp",
+        "clocale": "cpp",
+        "cwchar": "cpp",
+        "iosfwd": "cpp",
+        "string_view": "cpp"
     }
 }
